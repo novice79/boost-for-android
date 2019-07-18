@@ -9,8 +9,8 @@ Other versions of Boost are built only for arm architecture, they are using gcc 
 
 To compile Boost for Android you may use one of the following NDKs:
 
-| NDK / boost | 1.45 | 1.48 | 1.49 | 1.53 | 1.65 | 1.66 | 1.67 | 1.68 | 1.69 | 1.70 |
-| ----------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| NDK / boost | 1.53 | 1.65 | 1.66 | 1.67 | 1.68 | 1.69 | 1.70 |
+| ----------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | r10 from the [official android repository](http://developer.android.com).                 |   |   | x | x |   |   |   |   |   |   |
 | r16 from the [official android repository](http://developer.android.com).                 |   |   |   |   | x | x | x | x |   | x |
 | r17b from the [official android repository](http://developer.android.com).                |   |   |   |   |   |   | x | x |   | x |
